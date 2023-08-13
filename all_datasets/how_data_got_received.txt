@@ -1,0 +1,5 @@
+1. simply download the data set from below link
+https://github.com/ageron/handson-ml2/blob/master/datasets/housing/housing.tgz
+
+2. Run following command to extract csv file
+tar -xzf housing.tgz
